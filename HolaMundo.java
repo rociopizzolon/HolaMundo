@@ -13,5 +13,8 @@ public class HolaMundo {
 		hm.saludar();
 		System.out.println("Esta es mi primera clase con GIT");
 		System.out.println("Este es el texto correcto");
+		
+		Cerrador c = new Cerrador();
+		c.cerrar();
 	}
 }
