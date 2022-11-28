@@ -12,6 +12,6 @@ public class HolaMundo {
 		HolaMundo hm = new HolaMundo();
 		hm.saludar();
 		System.out.println("Esta es mi primera clase con GIT");
-		System.out.println("Esta es una nueva linea de codigo!");
+		System.out.println("Este es el texto correcto");
 	}
 }
