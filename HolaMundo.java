@@ -12,7 +12,7 @@ public class HolaMundo {
 		HolaMundo hm = new HolaMundo();
 		hm.saludar();
 		System.out.println("Esta es mi primera clase con GIT");
-		System.out.println("Este es el texto correcto");
+		System.out.println("Este es el texto modificado desde GitHub");
 		
 		Cerrador c = new Cerrador();
 		c.cerrar();
