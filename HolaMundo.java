@@ -14,6 +14,7 @@ public class HolaMundo {
 		System.out.println("Esta es mi primera clase con GIT");
 		System.out.println("Este es el texto modificado desde GitHub");
 		System.out.println("Nueva impresion desde local");
+		System.out.println("Nueva impresion desde GitHub, rama mensajes");
 		
 		Cerrador c = new Cerrador();
 		c.cerrar();
